@@ -1,0 +1,132 @@
+[
+  {
+    "UserGUID": "123456789",
+    "EmailAddress": "user@example.com",
+    "BusinessName": "Sample Business",
+    "BusinessNumber": "1234567890",
+    "UniqueCode": "ABC123",
+    "ExternalReference": "XYZ456",
+    "PhoneNum": "555-123-4567",
+    "HomeAddress": {
+      "Street": "123 Main St",
+      "City": "Sampleville",
+      "State": "CA",
+      "PostalCode": "12345"
+    },
+    "PostalAddress": {
+      "Street": "456 Elm St",
+      "City": "Another Town",
+      "State": "NY",
+      "PostalCode": "54321"
+    },
+    "CreationDate": "2023-09-28T00:00:00.000Z",
+    "ModifyDate": "2023-09-28T00:00:00.000Z",
+    "ArchiveDate": "2023-09-30T00:00:00.000Z"
+  },
+  {
+    "UserGUID": "user456",
+    "EmailAddress": "shopper@example.com",
+    "BusinessName": null,
+    "BusinessNumber": null,
+    "UniqueCode": null,
+    "ExternalReference": null,
+    "PhoneNum": "555-555-5555",
+    "HomeAddress": {
+      "Street": "789 Pine Road",
+      "City": "Metroville",
+      "State": "NY",
+      "PostalCode": "54321"
+    },
+    "PostalAddress": null
+  },
+  {
+    "UserGUID": "user789",
+    "EmailAddress": "consultant@example.com",
+    "BusinessName": "Smith Consulting",
+    "BusinessNumber": "1234567890",
+    "UniqueCode": "CONSULT123",
+    "ExternalReference": "SMITHCON",
+    "PhoneNum": "555-987-6543",
+    "HomeAddress": {
+      "Street": "101 Elm Avenue",
+      "City": "Consultville",
+      "State": "CA",
+      "PostalCode": "98712"
+    },
+    "PostalAddress": {
+      "Street": "P.O. Box 543",
+      "City": "Consultville",
+      "State": "CA",
+      "PostalCode": "98713"
+    }
+  },
+  {
+    "UserGUID": "user101",
+    "EmailAddress": "writer@example.com",
+    "BusinessName": null,
+    "BusinessNumber": null,
+    "UniqueCode": null,
+    "ExternalReference": null,
+    "PhoneNum": "555-123-9876",
+    "HomeAddress": {
+      "Street": "42 Writer's Lane",
+      "City": "Wordville",
+      "State": "TX",
+      "PostalCode": "54321"
+    },
+    "PostalAddress": null
+  },
+  {
+    "UserGUID": "user202",
+    "EmailAddress": "chef@example.com",
+    "BusinessName": "TasteBuds Bistro",
+    "BusinessNumber": "876543210",
+    "UniqueCode": "TASTY123",
+    "ExternalReference": "TASTEBUDS",
+    "PhoneNum": "555-321-4567",
+    "HomeAddress": {
+      "Street": "55 Gourmet Street",
+      "City": "Foodville",
+      "State": "CA",
+      "PostalCode": "98765"
+    },
+    "PostalAddress": {
+      "Street": "P.O. Box 789",
+      "City": "Foodville",
+      "State": "CA",
+      "PostalCode": "98766"
+    }
+  },
+  {
+    "UserGUID": "user303",
+    "EmailAddress": "dev@example.com",
+    "BusinessName": null,
+    "BusinessNumber": null,
+    "UniqueCode": null,
+    "ExternalReference": null,
+    "PhoneNum": "555-456-7890",
+    "HomeAddress": {
+      "Street": "123 Code Lane",
+      "City": "Techtown",
+      "State": "CA",
+      "PostalCode": "98712"
+    },
+    "PostalAddress": null
+  },
+  {
+    "UserGUID": "user404",
+    "EmailAddress": "student@example.com",
+    "BusinessName": null,
+    "BusinessNumber": null,
+    "UniqueCode": null,
+    "ExternalReference": null,
+    "PhoneNum": "555-999-8888",
+    "HomeAddress": {
+      "Street": "567 Campus Road",
+      "City": "Universityville",
+      "State": "CA",
+      "PostalCode": "98723"
+    },
+    "PostalAddress": null
+  }
+]
